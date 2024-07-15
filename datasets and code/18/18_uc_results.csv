@@ -1,0 +1,12 @@
+Run,F1_Macro_gpt35,Accuracy_gpt35,F1_Macro_gpt4,Accuracy_gpt4
+answerPrompt2_int,0.188540833,0.128,0.200876894,0.21
+answerPrompt4_int,0.208852704,0.169,0.216682987,0.275
+answerPrompt6_int,0.180921678,0.114,0.222362766,0.293
+answerPrompt8_int,0.20215727,0.131,0.22106567,0.286
+answerPrompt10_int,0.194755994,0.141,0.219004704,0.28
+answerOLD_int,0,0,0.127503215,0.043
+,,,,
+,,,,
+,,,,
+"SOTA 0,5",,,0.129063882,
+"SOTA 0,2",,,0.233310893,
